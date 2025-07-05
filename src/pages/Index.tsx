@@ -105,7 +105,7 @@ const Index = () => {
               </div>
               <nav className="hidden md:flex space-x-6">
                 <a
-                  href="#"
+                  href="/"
                   className="text-foreground hover:text-primary transition-colors"
                 >
                   Главная
@@ -123,7 +123,7 @@ const Index = () => {
                   Доставка
                 </a>
                 <a
-                  href="#forum"
+                  href="/forum"
                   className="text-foreground hover:text-primary transition-colors"
                 >
                   Форум
